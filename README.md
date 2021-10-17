@@ -1,8 +1,5 @@
 # External-Apex-Cheat
 
-update : added new function hook and updated offsets (use at own risk)
-multiple ban reports within last 12hrs
-
 Install WDK
 1) Build in Release x64
 2) Map driver using KDMapper
@@ -15,12 +12,4 @@ glow was made by @AdrianVPL, any p2c use this or skidded version's of it. myself
 if your any good with function hooking in kernel you could possibly make this a better driver.
 
 my discord if you have issue :  $urge got tapped#4481
-
-if your on 2004 download the supported kdmapper found on the interwebs somewhere.. not rocket science ;)
-enjoy 
-
-updated to new game version
-
-status: Testing (Multiple Ban Reports)
-
-small bugs fixed
+if your on 2004 download the supported kdmapper.
